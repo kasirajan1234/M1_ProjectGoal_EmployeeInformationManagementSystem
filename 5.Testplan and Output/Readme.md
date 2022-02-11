@@ -10,8 +10,7 @@
 |TC_7|for listing record|abc 12 5000|abc 12 5000|abc 12 5000|PASS|
 |TC_8|for listing record|abc 12 5000|abc 12 5000|abc 5000 12|FAIL|
 |TC_9|for listing record|abc 12 5000|abc 12 5000|12 abc 500|FAIL|
-|TC_10|or deleting record|abc|abc|xyz|FAIL|
-|TC_11|or deleting record|abc|abc|abc|PASS|
-4
-[poi 
-gtr
+|TC_10|for deleting record|abc|abc|xyz|FAIL|
+|TC_11|for deleting record|abc|abc|abc|PASS|
+
+
