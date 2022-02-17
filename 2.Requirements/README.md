@@ -11,7 +11,7 @@
   As a company's business grows, so does the number of employees. • As the number of employees grows, so is the need for data management.
 # Where:
   This issue has surfaced in every organisation on the planet.
-# How
+# How:
   This project collects all of the incoming data and produces management parameters.
 # SWOT ANALYSIS
 # Strength:
@@ -28,7 +28,7 @@
   1.The system is highly sophisticated handling a wide range of records.
 
   2.It does not provide overall information about employee.
-  
+
   3.Minimum accuracy and security.
 # Threats:
   It can not add overall information about employee.
