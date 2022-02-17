@@ -8,7 +8,7 @@
 # What:
   Earlier Many businesses were inefficient due of the time it took to manually enter large numbers of personnel records. • This project allows you to effortlessly enter all of the essential data and launch it into the system.
 # When:
-  • As a company's business grows, so does the number of employees. • As the number of employees grows, so is the need for data management.
+  As a company's business grows, so does the number of employees. • As the number of employees grows, so is the need for data management.
 # Where:
   This issue has surfaced in every organisation on the planet.
 # How
@@ -16,13 +16,19 @@
 # SWOT ANALYSIS
 # Strength:
   1.Provides Fast and easy to handle.
+
   2.Reduces mistakes that may occur in the manual record system. 
+
   3.Allows the organization to work on records on there convenient time.
+
   4.The pressure on the user to create or write all the records on paper that may reduced.
+
   5.It can be easily handled by the person who have elementary know ledge of computer because it provides an user friendly environment.
 # Weakness:
   1.The system is highly sophisticated handling a wide range of records.
+
   2.It does not provide overall information about employee.
+  
   3.Minimum accuracy and security.
 # Threats:
   It can not add overall information about employee.
